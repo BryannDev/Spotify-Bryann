@@ -1,1 +1,1 @@
-https://spotify-bryann1.netlify.app/
+https://spotify-bryandev.netlify.app/
